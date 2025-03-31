@@ -16,4 +16,8 @@ func main() {
 	p := Person{Name: "Leo", Age: 20}
 	p.Birthday()
 	fmt.Println(p.Age) // Output: 21
+	fmt.Println(p.Age) // Output: 21
+	fmt.Println(p.Age) // Output: 21
+	fmt.Println(p.Age) // Output: 21
+	fmt.Println(p.Age) // Output: 21
 }
